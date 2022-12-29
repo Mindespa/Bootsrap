@@ -1,0 +1,28 @@
+.green > * {
+    background-color: green;
+    border: 1px solid white
+}
+.sky >* {
+    background-color: skyblue;
+    border: 1px solid white
+}
+.blue > * {
+    background-color: blue;
+    border: 1px solid white;
+}
+.purple > * {
+    background-color: purple;
+    border: 1px solid white;
+}
+.purple light > * {
+    background-color: purpl;
+    border: 1px solid white;
+}
+.pink > * {
+    background-color: pink;
+    border: 1px solid white;
+}
+.red > * {
+    background-color: red;
+    border: 1px solid white;
+}
